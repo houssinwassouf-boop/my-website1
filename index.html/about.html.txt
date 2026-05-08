@@ -47,7 +47,7 @@
         <div class="row row-cols-2 row-cols-md-4 g-4 text-center">
             <div class="col">
                 
-                <h5>د.يوسف الخطيب</h5>
+                <h5>د.باسل الخطيب</h5>
                 <p class="text-muted">مدير المشروع</p>
             </div>
             <div class="col">
